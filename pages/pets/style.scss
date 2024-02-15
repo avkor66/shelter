@@ -846,7 +846,7 @@ header {
         &__content {
             position: relative;
             background-color: $color-light-s;
-            height: 341px;
+            height: 420px;
             width: 240px;
             margin: calc(50vh/2) auto;
             border-radius: 9px;
@@ -866,7 +866,7 @@ header {
                 border: 2px solid $color-primary;
                 box-sizing: border-box;
                 border-radius: 100px;
-                bottom: 341px;
+                bottom: 420px;
                 left: 218px;
             }
             &__img {
